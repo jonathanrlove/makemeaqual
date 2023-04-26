@@ -1,6 +1,6 @@
 # Make Me a Qual
 
-Generating practice tests using questions from old Stanford math qualifying exams. Live version available at https://jonathanlove.info/qual/makeit.html.
+Generating practice tests using questions from old Stanford math qualifying exams. Live version available at https://jonathanlove.info/qual/.
 
 To function properly, all the following files need to be in the same folder:
 - index.html
